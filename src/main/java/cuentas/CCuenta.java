@@ -1,6 +1,9 @@
 
 package cuentas;
 
+//Esto es un comentario
+
+
 public class CCuenta {
     
      private String nombre;
